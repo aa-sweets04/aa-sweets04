@@ -2,7 +2,7 @@
 
 Hello, my name is **Aaron Schwieterman**. I am currently a Ph.D student at the university of Kansas within the department of applied behavior sicences. 
 
-I have an overall interest in behavioral data science, forcusing on health and decision making behaviors. 
+I have interest in behavioral data science, forcusing on health and decision making behaviors. 
 
 - 🔭 I’m currently working on this page
 - 🌱 I’m currently learning Python
