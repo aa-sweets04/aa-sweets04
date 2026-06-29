@@ -4,7 +4,10 @@ Hello, my name is **Aaron Schwieterman**. I am currently a Ph.D student at the U
 
 I have interest in behavioral data science, forcusing on health and decision making behaviors. 
 
-- 🔭 I’m currently working on this page
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: Aaron Schwieterman (linkedIn)
+--- 
+# Tools and Tech
+- Python, R, SQL
+- 
+--- 
+# About me
 
