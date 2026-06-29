@@ -7,7 +7,7 @@ I have interest in behavioral data science, forcusing on health and decision mak
 --- 
 # Tools and Tech
 - Python, R, SQL
-- 
+
 --- 
 # About me
 
