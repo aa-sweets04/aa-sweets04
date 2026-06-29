@@ -4,10 +4,12 @@ Hello, my name is **Aaron Schwieterman**. I am currently a Ph.D student at the U
 
 I have interest in behavioral data science, forcusing on health and decision making behaviors. 
 
+I'm using this profile to upload some personal projects I've made, reserach tools, and other random things I explore. As well I want to dive deeper into data science and develop that skill set. 
+
 --- 
-# Tools and Tech
+## Tools and Tech
 - Python, R, SQL
 
 --- 
-# About me
+## About me
 
