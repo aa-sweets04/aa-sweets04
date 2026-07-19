@@ -12,5 +12,5 @@ I'm using this profile to upload some personal projects I've made, reserach tool
 - 
 
 --- 
-## About me
-
+## About me/Socials
+[LinkedIn](https://www.linkedin.com/in/aaron-schwieterman-9b8466300/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BKyEFT1QJQESrTXrxs7aNBQ%3D%3D)
